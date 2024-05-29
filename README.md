@@ -4,7 +4,7 @@ Welcome to the Fast React Pizza project! This is a React-based web application f
 - Order Management: order pizzas and edit it.
 - Responsive Design: Fully responsive design using Tailwind CSS.
 - Advanced Routing: Implemented using React Router for smooth navigation.
-- State Management: Efficient state management with Reduxtoolkit.
+- State Management: Efficient state management with Reduxtoolkit and thunks.
 # live demo 
 [fast-react-pizza](https://sfast-react-pizza.netlify.app/)
 
