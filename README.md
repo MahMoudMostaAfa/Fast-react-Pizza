@@ -1,8 +1,9 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Fast React Pizza
+Welcome to the Fast React Pizza project! This is a React-based web application for a fictional pizza ordering service. The project demonstrates advanced usage of React Router, state management with Redux, and styling with Tailwind CSS.
+# Features
+- Order Management: order pizzas and edit it.
+- Responsive Design: Fully responsive design using Tailwind CSS.
+- Advanced Routing: Implemented using React Router for smooth navigation.
+- State Management: Efficient state management with Reduxtoolkit.
+# live demo 
+[here](https://github.com](https://sfast-react-pizza.netlify.app/))
