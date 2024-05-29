@@ -6,4 +6,5 @@ Welcome to the Fast React Pizza project! This is a React-based web application f
 - Advanced Routing: Implemented using React Router for smooth navigation.
 - State Management: Efficient state management with Reduxtoolkit.
 # live demo 
-[here](https://github.com](https://sfast-react-pizza.netlify.app/)
+[fast-react-pizza](https://sfast-react-pizza.netlify.app/)
+
